@@ -1,3 +1,3 @@
 A man is a person 
-Git is a version control system
+today is a happy day
 Git is free software
